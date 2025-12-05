@@ -1,4 +1,4 @@
-<svg xmlns='http://www.w3.org/2000/svg' width="700">
+<svg xmlns='http://www.w3.org/2000/svg'>
     <style>
       text {
         font-family: "Cascadia Mono", monospace;
@@ -6,10 +6,10 @@
       }
     </style>
     <text fill='black' font-size='14'>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  1 | 1:                  995 | 2:                 5847 | Time: 70.922400 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  2 | 1:          38437576669 | 2:          49046150754 | Time: 40.339600 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  3 | 1:                17493 | 2:      173685428989126 | Time: 24.467700 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  4 | 1:                 1578 | 2:                10132 | Time: 168.081700 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  5 | 1:                  770 | 2:      357674099117260 | Time: 10.839700 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  1 | 1:                  995 | 2:                 5847 | Time: 115.548600 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  2 | 1:          38437576669 | 2:          49046150754 | Time: 50.853700 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  3 | 1:                17493 | 2:      173685428989126 | Time: 28.244900 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  4 | 1:                 1578 | 2:                10132 | Time: 177.325100 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  5 | 1:                  770 | 2:      357674099117260 | Time: 11.257800 ms</tspan>
  </text>
 </svg>
