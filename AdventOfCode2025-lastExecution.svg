@@ -6,12 +6,13 @@
       }
     </style>
     <text fill='black' font-size='14'>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  1 | 1:                  995 | 2:                 5847 | Time: 69.113400 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  2 | 1:          38437576669 | 2:          49046150754 | Time: 42.538600 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  3 | 1:                17493 | 2:      173685428989126 | Time: 44.363800 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  4 | 1:                 1578 | 2:                10132 | Time: 198.436600 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  5 | 1:                  770 | 2:      357674099117260 | Time: 10.853800 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  6 | 1:        6295830249262 | 2:        9194682052782 | Time: 31.316900 ms</tspan>
-      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  7 | 1:                 1541 | 2:       80158285728929 | Time: 8.344000 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  1 | 1:                  995 | 2:                 5847 | Time: 79.666400 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  2 | 1:          38437576669 | 2:          49046150754 | Time: 77.266100 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  3 | 1:                17493 | 2:      173685428989126 | Time: 26.097200 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  4 | 1:                 1578 | 2:                10132 | Time: 191.252300 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  5 | 1:                  770 | 2:      357674099117260 | Time: 10.840500 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  6 | 1:        6295830249262 | 2:        9194682052782 | Time: 37.975100 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  7 | 1:                 1541 | 2:       80158285728929 | Time: 8.348000 ms</tspan>
+      <tspan x="10" dy="1.4em" xml:space='preserve'>Day  8 | 1:                32103 | 2:           8133642976 | Time: 1616.335800 ms</tspan>
  </text>
 </svg>
